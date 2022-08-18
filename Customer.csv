@@ -1,0 +1,30 @@
+CustID,Name,Addr1,Addr2,City,State,ZIP,CustTypeID,Div,TypeName
+35,Ann Lee,3845 Nunc Road,,Merizo,GA   ,10764,F,PEC,US Govt             
+39,Ashton Washington,7726 Donec Road,,Vallejo,MA   ,19990,E,TPCW,Education           
+25,Atkins,4607 Risus Road,,Waukegan,NC   ,43147,S,PEC,State_Local Gov     
+4,Austin Burns,2041 Venenatis Avenue,,Alexandria,DC   ,34440,E,TPCW,Education           
+6,Austin Ferrell,8666 Justo Road,,Pullman,PA   ,55979,C,TPCW,Commercial          
+11,Austin Ferrell,8666 Justo Road,,Pullman,PA   ,55979,C,PEC,Commercial          
+3,Baxter May,796-2366 Vel Avenue,,Meriden,FL   ,58328,C,PEC,Commercial          
+11,Beasley,7800 Nec Road,,Idabel,MA   ,57132,C,TPCW,Commercial          
+3,Beckman Coulter Incoporated,5841 Pervades Drive,,Fairfax,VA   ,22035,E,TPCE,Education           
+1,Beverly Equipment,7581 Quisque Street,,Bloomington,HI   ,88440,S,TPCW,State_Local Gov     
+37,Beverly Equipment,7581 Quisque Street,,Bloomington,HI   ,88440,S,PEC,State_Local Gov     
+38,Blevins,2571 Donec Avenue,,Winooski,SD   ,65512,C,TPCW,Commercial          
+29,Blevins,2571 Donec Avenue,,Winooski,SD   ,65512,C,PEC,Commercial          
+10,Byron Chemicals,6831 Donec Street,,Salt Lake City,IN   ,41050,C,TPCW,Commercial          
+12,Cain,1116 Augue Street,,Warwick,DC   ,38450,S,PEC,State_Local Gov     
+19,Camera Platforms International Incoporated,5347 Deposed Street,,Houston,TX   ,77244,S,TPCE,State_Local Gov     
+17,Camera Platforms International Incoporated,5347 Deposed Street,,Houston,TX   ,77244,S,TPCW,State_Local Gov     
+24,Chantale-Huffman Incoporated,2761 Infinity Street,,New Iberia,NH   ,65327,S,TPCW,State_Local Gov     
+36,Charity Incoporated,3254 Hendrerit Avenue,,Effingham,WY   ,27502,E,TPCW,Education           
+22,Chemfix Technologies Incoporated,11533 Wonderingly Drive,Suite 50,Pasadena Hills,MO   ,63121,S,TPCE,State_Local Gov     
+23,Chemfix Technologies Incoporated,11533 Wonderingly Drive,Suite 50,Pasadena Hills,MO   ,63121,S,TPCW,State_Local Gov     
+27,Clare Baird,6152 Auctor Road,,Wilson,MS   ,29338,C,PEC,Commercial          
+2,Clio-Hutchinson,1257 Ac Avenue,,Butler,SC   ,82126,S,TPCW,State_Local Gov     
+12,Cohesant Technologies Incoporated,3334 Eggshell Circle,Dept #690,Oakley,SC   ,29461,F,TPCE,US Govt             
+15,Colton Maldonado,1869 Leo Road,,Cedar Rapids,SD   ,97640,C,PEC,Commercial          
+18,Cross,6605 Rhoncus Avenue,,Hopkinsville,NH   ,25620,F,TPCW,US Govt             
+23,Cross,112 In Road,,Opelousas,GA   ,43882,F,PEC,US Govt             
+26,Dakota Mills,7442 Amet Avenue,,Syracuse,DE   ,56656,F,PEC,US Govt             
+34,Emerson Electric Company.,1792 Squash Drive,,South Texarkana,TX   ,75501,E,TPCE,Education           

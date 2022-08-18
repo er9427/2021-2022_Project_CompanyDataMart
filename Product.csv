@@ -1,0 +1,30 @@
+ProdID,ProdDesc,Price1,Price2,UnitCost,Supplier_Name,Address,City,State,ZIP,ProdTypeID,TypeDesc,BUID,BusinessName,Abbrev,Div,Discounted
+56,Allis Polishing Equipment            ,201.77,176.35,160.48,American General Ventures Incoporated,,Sterling,KS,67579,3,Polishing Equipment,A,Processing Equipment,Equipment,TPCE,0
+18,Allis Polishing Equipment            ,201.77,176.35,112,N/A,N/A,N/A,N/A,N/A,3,Polishing Equipment,A,Processing Equipment,Equipment,PEC,0
+56,Allis Polishing Equipmentment        ,201.77,176.35,160.48,American General Ventures Incoporated,Kimberly Yarborough: 1616 Goggles Drive,Sterling,KS,67579,3,Polishing Equipment,A,Processing Equipment,Equipment,TPCW,0
+72,Anthem Tray Supplies                 ,134.92,112.39,109.02,Fedders Corporation ,Virgil Hubert: 7844 Carelessly Drive,Overlook,WA,98366,8,Tray Supplies,B,Disposable Supplies,Supply,TPCW,0
+72,Anthem Tray Supplies                 ,134.92,112.39,109.02,The Product Company (East),,Stratford,NY,13470,8,Tray Supplies,B,Disposable Supplies,Supply,TPCE,0
+5,Automobiles Fillers                  ,283.83,227.63,218.52,American General Ventures Incoporated,Kimberly Yarborough: 1616 Goggles Drive,Sterling,KS,67579,12,Fillers,D,Miscellaneous,Misc,TPCW,0
+5,Automobiles Fillers                  ,283.83,227.63,218.52,American General Ventures Incoporated,,Sterling,KS,67579,12,Fillers,D,Miscellaneous,Misc,TPCE,0
+25,Automobiles Fillers                  ,283.83,227.63,218.52,The Product Company (East),,Stratford,NY,13470,12,Fillers,D,Miscellaneous,Misc,PEC,0
+24,Bandage Manufacturing Equip          ,298,267.01,253.66,Sinclair Broadcast Group Incoporated,,Clinton,MI,49236,2,Manufacturing Equip,A,Processing Equipment,Equipment,TPCE,0
+7,Bandage Manufacturing Equip          ,298,267.01,234,N/A,N/A,N/A,N/A,N/A,2,Manufacturing Equip,A,Processing Equipment,Equipment,PEC,0
+24,Bandage Manufacturing Equipment      ,298,267.01,253.66,SIncoporated,Carla Shelby: 6037 Ecuadorian Street,Clinton,MI,49236,2,Manufacturing Equip,A,Processing Equipment,Equipment,TPCW,0
+98,Barrels Flushing Chemicals           ,135.1,116.59,108.43,Specialty Teleconstructors Incoporated,Zylina Cox: 2161 Chalmers Street,Salinas,CA,93905,10,Flushing Chemicals,C,Chemicals,Chemical,TPCW,0
+98,Barrels Flushing Chemicals           ,135.1,116.59,108.43,Specialty Teleconstructors Incoporated,,Salinas,CA,93905,10,Flushing Chemicals,C,Chemicals,Chemical,TPCE,0
+92,Behind Tray Supplies                 ,166.65,138.99,129.26,Afg Industries Incoporated,Dorothy Polk: 5377 Cookbook Circle,Vero Beach,FL,32967,8,Tray Supplies,B,Disposable Supplies,Supply,TPCW,0
+92,Behind Tray Supplies                 ,166.65,138.99,129.26,Afg Industries Incoporated,,Vero Beach,FL,32967,8,Tray Supplies,B,Disposable Supplies,Supply,TPCE,1
+94,Beliefs Freezing Chemicals           ,566.64,483.91,454.88,Immunex Corporation ,Elbert Glad: 5841 Pervades Drive,Fairfax,VA,22035,11,Freezing Chemicals,C,Chemicals,Chemical,TPCW,0
+94,Beliefs Freezing Chemicals           ,566.64,483.91,454.88,Immunex Corporation ,,Fairfax,VA,22035,11,Freezing Chemicals,C,Chemicals,Chemical,TPCE,0
+93,Bellowing Polishing Equipment        ,502.57,451.31,446.8,First Bancshares Incoporated,,Louisville,KY,40253,3,Polishing Equipment,A,Processing Equipment,Equipment,TPCE,0
+31,Bellowing Polishing Equipment        ,502.57,451.31,400,N/A,N/A,N/A,N/A,N/A,3,Polishing Equipment,A,Processing Equipment,Equipment,PEC,0
+93,Bellowing Polishing Equipmentment    ,502.57,451.31,446.8,First Bancshares Incoporated,Jensine Lease: 11885 Aural Turnpike,Louisville,KY,40253,3,Polishing Equipment,A,Processing Equipment,Equipment,TPCW,0
+64,Berwick Fillers                      ,583.85,487.51,463.13,Dollar General Corporation ,Antoinette Hickey: 3988 Chanced Avenue,S Middleton,PA,17007,12,Fillers,D,Miscellaneous,Misc,TPCW,0
+64,Berwick Fillers                      ,583.85,487.51,463.13,Dollar General Corporation ,,S Middleton,PA,17007,12,Fillers,D,Miscellaneous,Misc,TPCE,0
+44,Birthdays Manufacturing Equip        ,196.56,173.17,161.05,First Bancshares Incoporated,,Louisville,KY,40253,2,Manufacturing Equip,A,Processing Equipment,Equipment,TPCE,0
+35,Birthdays Manufacturing Equip        ,196.56,173.17,115,N/A,N/A,N/A,N/A,N/A,2,Manufacturing Equip,A,Processing Equipment,Equipment,PEC,0
+44,Birthdays Manufacturing Equipment    ,196.56,173.17,161.05,First Bancshares Incoporated,Jensine Lease: 11885 Aural Turnpike,Louisville,KY,40253,2,Manufacturing Equip,A,Processing Equipment,Equipment,TPCW,0
+43,Blazed Covers                        ,495,416.79,404.29,Afg Industries Incoporated,Dorothy Polk: 5377 Cookbook Circle,Vero Beach,FL,32967,13,Covers,D,Miscellaneous,Misc,TPCW,0
+43,Blazed Covers                        ,495,416.79,404.29,Afg Industries Incoporated,,Vero Beach,FL,32967,13,Covers,D,Miscellaneous,Misc,TPCE,0
+29,Bluest Fillers                       ,507.35,428.2,398.23,Black Hills Corporation ,Edena Gilbert: 1618 Greenland Street,Tallahassee,FL,32304,12,Fillers,D,Miscellaneous,Misc,TPCW,0
+29,Bluest Fillers                       ,507.35,428.2,398.23,Black Hills Corporation ,,Tallahassee,FL,32304,12,Fillers,D,Miscellaneous,Misc,TPCE,0
